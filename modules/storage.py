@@ -10,5 +10,7 @@ def load_data():
         return []
     
 def save_data(data):
+    existing_data = load_data()
+    existing_data.append(data)
     with open(FILE_NAME, "w") as file:
-        json.dump(data, file, indent=4)
+        json.dump(existing_data, file, indent=4)
