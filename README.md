@@ -1,7 +1,9 @@
 # KASIR SEDERHANA
+
 Anggota Kelompok:
-* PythonicHoshiyomi - Giza Jirndhara 
-* Verianoo - Rajbi Muhammad Nizar 
-* Imanstr26 - Iman Satrio Wicaksono 
-* Riyalafzal arch - M afzal Riyal Fauzi 
-* Bijieu - Rizni Febrianti Surya Putri 
+
+- Riyalafzal arch - M afzal Riyal Fauzi
+- PythonicHoshiyomi - Giza Jirndhara
+- Imanstr26 - Iman Satrio Wicaksono
+- Verianoo - Rajbi Muhammad Nizar
+- Bijieu - Rizni Febrianti Surya Putri
